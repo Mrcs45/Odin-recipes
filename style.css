@@ -4,6 +4,8 @@
     color: #ffffff;
 }
 
+/* General styling */
+
 img {
     height: auto;
     width: 300px;
@@ -11,15 +13,47 @@ img {
 
 h1 {
     font-weight: bold;
-    font-size: 36px;
+    font-size: 2rem;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 1.5rem;
     font-weight: 500;
 }
 
 li {
-    font-size: 15px;
+    font-size: 1rem;
     font-weight: 300;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/* Front page staling */
+
+
+
+/* lasagna page styling */
+
+.lasagna-section {
+    padding: 15px;
+    margin: 10px;
+}
+
+
+/* meatball page styling */
+
+.meatball-section {
+    padding: 15px;
+    margin: 10px;
+}
+
+
+/* feijoada page styling */
+
+.feijoada-section {
+    padding: 15px;
+    margin: 10px;
 }
